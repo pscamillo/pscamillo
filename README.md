@@ -1,6 +1,8 @@
+<!--
 <p align="center">
-  <img src="./assets/banner_header.png" alt="V − E + F = 2" width="100%">
+  <img src="./assets/banner_header.png" alt="V - E + F = 2" width="100%">
 </p>
+-->
 
 ## Current focus
 
