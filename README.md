@@ -13,7 +13,7 @@ High-performance GPU/CUDA on NVIDIA Blackwell (sm_120), across three fronts:
 - **Vesuvius Challenge** — data augmentations for the Herculaneum scroll pipeline (May 2026 Progress Prize - https://scrollprize.org/winners).
 
 ## Projects
-
+- **[winding-ruler](https://github.com/pscamillo/winding-ruler) — Winding evidence for the Vesuvius spiral fit: annotation-value measurement, generator post-mortems, and the first collection-wide winding-pitch atlas (35 Herculaneum scrolls, ~207 µm median pitch).
 - **[mr_blackwell](https://github.com/pscamillo/mr_blackwell)** — Native Miller-Rabin CUDA kernel for NVIDIA Blackwell. CGBN replacement using Montgomery CIOS and PTX carry chains.
 - **[PSCKangaroo](https://github.com/pscamillo/PSCKangaroo)** — GPU-accelerated Pollard's Kangaroo for secp256k1 ECDLP. Fork of RCKangaroo with concurrent mode, crash-safe checkpoints, and compact 16-byte DPs.
 - **[verimath](https://github.com/pscamillo/verimath)** — Deterministic, third-party-verifiable number-theory agent (factorization, primality proofs) on the CROO Agent Protocol. Every result ships with a reproducible SHA-256 attestation.
