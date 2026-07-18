@@ -10,7 +10,7 @@ High-performance GPU/CUDA on NVIDIA Blackwell (sm_120), across three fronts:
 
 - **Number theory & cryptography** — Miller-Rabin primality, prime gap searches, Pollard's Kangaroo (ECDLP on secp256k1), and empirical verification of the Beal conjecture.
 - **Differentiable 3D geometry** — techniques from scroll-unrolling (winding coordinates, invertible-by-construction maps), applied and stress-tested outside their origin to find where they hold and where they break.
-- **Vesuvius Challenge** — data augmentations, CUDA acceleration and winding-geometry measurement for the Herculaneum scroll pipeline (4× awarded, May–Jul 2026 — https://scrollprize.org/winners).
+- **Vesuvius Challenge** — data augmentations, CUDA acceleration and winding-geometry measurement for the Herculaneum scroll pipeline (awarded, May–Jul 2026 — https://scrollprize.org/winners).
 
 ## Projects
 
